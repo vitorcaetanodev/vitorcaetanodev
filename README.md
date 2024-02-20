@@ -1,4 +1,4 @@
-## Seja bem vindo, eu sou a Caetanv, criador de conteúdo de programação e tecnologia!
+## Seja bem vindo, eu sou Vitor Caetano, criador de conteúdo de programação e tecnologia!
 
 ![Caetanv's GitHub stats](https://github-readme-stats.vercel.app/api?username=caetanv&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanv&layout=compact)
