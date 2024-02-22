@@ -66,6 +66,6 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
   <a href="https://www.linkedin.com/in/vitorcaetanos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ##
   
-<img width="868" height="300" alt="contributions" src="https://github.com/caetanv/caetanv/assets/7980761/3ce7c763-1cf3-402e-b6e9-50bc04af7cd7">
+<img width="968" height="280" alt="contributions" src="https://github.com/caetanv/caetanv/assets/7980761/3ce7c763-1cf3-402e-b6e9-50bc04af7cd7">
 
 
