@@ -47,7 +47,7 @@
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="44px" width="94px" alt="Warpnet" src="https://vestibular.fiap.com.br/imagens/logo-fiap.png"/>](https://www.fiap.com/)
+[<img align="left" height="35px" width="94px" alt="Warpnet" src="https://vestibular.fiap.com.br/imagens/logo-fiap.png"/>](https://www.fiap.com/)
 **Game Developer** \
 [**FIAP**](https://www.`fiap.com/) • In progress \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
