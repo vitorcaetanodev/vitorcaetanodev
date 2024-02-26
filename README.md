@@ -47,7 +47,7 @@
 ## Academic Background:
 
 [<img align="left" height="44px" width="94px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-1.png"/>](https://www5.usp.br/)
-**Software Engineering of Information Systems** \
+**Information System** \
 [**USP**](https://www5.usp.br/)  • Fully Completed\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
