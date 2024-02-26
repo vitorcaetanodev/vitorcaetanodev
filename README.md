@@ -23,6 +23,10 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=net"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://sass-lang.com/)
 
 
 #### Studying in this moment:
@@ -43,14 +47,14 @@
 
 [<img align="left" height="44px" width="94px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-1.png"/>](https://www5.usp.br/)
 **Software Engineering of Information Systems** \
-[**USP**](https://www5.usp.br/)  • In progress\
+[**USP**](https://www5.usp.br/)  • Fully Completed\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
 [<img align="left" height="35px" width="94px" alt="Warpnet" src="https://vestibular.fiap.com.br/imagens/logo-fiap.png"/>](https://www.fiap.com/)
 **Game Developer** \
-[**FIAP**](https://www.`fiap.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
+[**FIAP**](https://www.`fiap.com/) • Fully Completed \
+Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
 
 
