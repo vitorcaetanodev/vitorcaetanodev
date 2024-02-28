@@ -108,18 +108,21 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
     alt="Número de visitantes no perfil"
   />
 </p>
-  
+
+### 🏆 GitHub Profile Trophy
+
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
-      width="900"
-      src="https://github-profile-trophy.vercel.app/?username=caetanv&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
+
 
 
 <div><a href="https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA" target="_blank"><img src="http://pluspng.com/img-png/paypal-donate-button-png--770.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 127px !important;" ></a> <a href="https://www.buymeacoffee.com/vitorcaetanoweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></div>
