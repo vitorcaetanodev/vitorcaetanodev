@@ -72,7 +72,7 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
   <a href="https://www.linkedin.com/in/vitorcaetanos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ##
 
-[<img height="78px" width="108px" alt="Icone VS-Code" src="(https://github.com/caetanv/caetanv/assets/7980761/b27af9db-6d1a-4acc-994e-9c082d70ecea"/>](https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA)
+[<img height="78px" width="108px" alt="Icone VS-Code" src="(http://pluspng.com/img-png/paypal-donate-button-png--770.png"/>](https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA)
 
 <a href="https://www.buymeacoffee.com/vitorcaetanoweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
