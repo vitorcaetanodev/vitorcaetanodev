@@ -72,7 +72,7 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
   <a href="https://www.linkedin.com/in/vitorcaetanos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ##
 
-  ![image](https://github.com/caetanv/caetanv/assets/7980761/d338ca83-f262-456d-9e9d-1b583f283b18)
+  /* ![image](https://github.com/caetanv/caetanv/assets/7980761/d338ca83-f262-456d-9e9d-1b583f283b18) */
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
