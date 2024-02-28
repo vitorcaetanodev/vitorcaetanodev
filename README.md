@@ -71,14 +71,16 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
   <a href = "mailto:vitorcaetanoweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorcaetanos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ##
+
+
+  [![image](https://github.com/caetanv/caetanv/assets/7980761/cb2ec6fb-e5c7-449e-8777-7ac0256007a1)](https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA)
+
+<a href="https://www.buymeacoffee.com/vitorcaetanoweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-  [![image](https://github.com/caetanv/caetanv/assets/7980761/cb2ec6fb-e5c7-449e-8777-7ac0256007a1)](https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA)
-
-<a href="https://www.buymeacoffee.com/vitorcaetanoweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
