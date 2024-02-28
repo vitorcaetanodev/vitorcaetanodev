@@ -79,6 +79,6 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
 </picture>
 
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://tse4.mm.bing.net/th?id=OIP.HwUizOEqQpbXihlC7Js7nAHaCt&pid=Api&P=0&h=180"/>](https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA)
+  [![image](https://github.com/caetanv/caetanv/assets/7980761/8581ae6c-20af-42d7-9155-db6f7e3894af)](https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA)
 
 
