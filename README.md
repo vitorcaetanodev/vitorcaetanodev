@@ -86,6 +86,18 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
   />
 </p>
   
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=caetanv&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
