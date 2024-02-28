@@ -92,7 +92,7 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
     title="repositório de troféus"
   >
     <img
-      width="1100"
+      width="600"
       src="https://github-profile-trophy.vercel.app/?username=caetanv&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
