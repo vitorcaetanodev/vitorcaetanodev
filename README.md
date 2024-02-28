@@ -81,7 +81,7 @@ Skills: `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScrip
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/caetanv/count.svg"
+    src="https://profile-counter.glitch.me/TheAlgorithms/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
