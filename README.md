@@ -88,7 +88,7 @@
 ### 🎓 Academic Background
 
 [<img align="left" height="44px" width="94px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-1.png"/>](https://www5.usp.br/)
-**Information System** \
+**Information System** 
 #### Skills 
 `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
@@ -96,7 +96,7 @@
 <br>
 
 [<img align="left" height="35px" width="94px" alt="Warpnet" src="https://vestibular.fiap.com.br/imagens/logo-fiap.png"/>](https://www.fiap.com/)
-**Game Developer** \
+**Game Developer** 
 #### Skills 
 `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
