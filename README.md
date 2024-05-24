@@ -101,6 +101,12 @@
 `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
 
+[<img align="left" height="35px" width="94px" alt="Warpnet" src="https://tse2.mm.bing.net/th?id=OIP.4avoa2KIUSY5q7AInd5aLwHaCC&pid=Api&P=0&h=180"/>](http://www.etec.sp.gov.br/view/Default.aspx)
+**IT Technician** 
+#### Skills 
+`HTML5` `CSS3` `JAVA` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `SQLServer` `Jquery` `Android` `Oracle`
+`Bulma` `.NET` `ASP .NET` 
+
 <br>
 
 ### 🏆 GitHub Profile Trophy
