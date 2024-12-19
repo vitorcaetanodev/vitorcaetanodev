@@ -11,14 +11,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=caetanv&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=vitorcaetanodev&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
     <td>
      <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=caetanv&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=vitorcaetanodev&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -26,7 +26,7 @@
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanv&theme=dark&hide_border=false&count_private=true&layout=compact&hide_progress=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=dark&hide_border=false&count_private=true&layout=compact&hide_progress=true"
         alt="Github Stats"
       />
     </td>
@@ -117,7 +117,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/caetanv/count.svg"
+    src="https://profile-counter.glitch.me/vitorcaetanodev/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
