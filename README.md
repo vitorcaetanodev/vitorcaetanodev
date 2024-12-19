@@ -83,32 +83,6 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 <br>
 
-<br>
-
-### 🎓 Academic Background
-
-[<img align="left" height="44px" width="94px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2014/12/usp-logo-1.png"/>](https://www5.usp.br/)
-**Information System** 
-#### Skills 
-`Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
-
-<br>
-
-[<img align="left" height="35px" width="94px" alt="Warpnet" src="https://vestibular.fiap.com.br/imagens/logo-fiap.png"/>](https://www.fiap.com/)
-**Game Developer** 
-#### Skills 
-`HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
-
-[<img align="left" height="35px" width="94px" alt="Warpnet" src="https://tse2.mm.bing.net/th?id=OIP.4avoa2KIUSY5q7AInd5aLwHaCC&pid=Api&P=0&h=180"/>](http://www.etec.sp.gov.br/view/Default.aspx)
-**IT Technician** 
-#### Skills 
-`HTML5` `CSS3` `JAVA` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `SQLServer` `Jquery` `Android` `Oracle`
-`Bulma` `.NET` `ASP .NET` 
-
-<br>
-
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
