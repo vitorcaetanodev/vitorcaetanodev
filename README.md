@@ -16,13 +16,6 @@
       />
     </td>
     <td>
-     <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?username=vitorcaetanodev&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
       <br />
        <img
         align="left"
