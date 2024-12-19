@@ -18,7 +18,7 @@
     <td>
      <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=vitorcaetanodev&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?username=vitorcaetanodev&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
