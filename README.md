@@ -116,6 +116,14 @@
 </p>
 
 
+<p>
+  Projects: API .NET C# Entity Framework RabbitMQ
+            Crud JAVA SpringBoot Hibernate
+            Microsservice .NET
+            API Python IA
+</p>
+</p>
+
 
 <div><a href="https://www.paypal.com/donate/?hosted_button_id=T9EVA9YFZ5SHA" target="_blank"><img src="http://pluspng.com/img-png/paypal-donate-button-png--770.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 127px !important;" ></a> <a href="https://www.buymeacoffee.com/vitorcaetanoweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></div>
 
