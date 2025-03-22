@@ -22,6 +22,21 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,php,objective-c,c"
         alt="Github Stats"
       />
+    </td><td>
+      <br />
+       <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,objective-c,c,c%23,php"
+        alt="Github Stats"
+      />
+    </td>
+    </td><td>
+      <br />
+       <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,objective-c,c,c%23,php"
+        alt="Github Stats"
+      />
     </td>
   </tr>
 </table>
