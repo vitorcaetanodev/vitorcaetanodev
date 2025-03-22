@@ -19,7 +19,7 @@
       <br />
        <img
         align="left"
-        src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide_border=false&count_private=true&layout=normal&hide_progress=false](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=javascript,html,tex,css,php,objective-c,c)"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=javascript,html,tex,css,php,objective-c,c"
         alt="Github Stats"
       />
     </td>
