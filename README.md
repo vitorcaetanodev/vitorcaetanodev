@@ -26,7 +26,7 @@
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,objective-c,c,c%23,java,python,r"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,shell,batchfile,c,c%23,java,python,r"
         alt="Github Stats"
       />
     </td>
