@@ -43,7 +43,7 @@
 
 <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=html,php,java,tex,css,objective-c,c,c%23,php,jupyter%20Notebook"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=html,python,php,java,tex,css,objective-c,c,c%23,php,jupyter%20Notebook"
         alt="Github Stats"
       />
 
