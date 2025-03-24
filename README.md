@@ -11,7 +11,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=vitorcaetanodev&theme=cobalt&hide_border=false&hide_contributor_rank=true"
+        src="https://github-readme-stats.vercel.app/api?username=vitorcaetanodev&theme=cobalt&hide_border=false&hide_contributor_rank=true&&hide_rank=true"
         alt="Github Stats"
       />
     </td>
