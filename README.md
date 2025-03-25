@@ -14,14 +14,6 @@
         src="https://github-readme-stats.vercel.app/api?username=vitorcaetanodev&hide_border=false&hide_contributor_rank=true&hide_rank=true"
         alt="Github Stats"
       />
-    </td>
-    <td>
-      <br />
-       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=tex,html,css,php,objective-c,c,java,python,r&langs_count=3&layout=donut"
-        alt="Github Stats"
-      />
     </td><td>
       <br />
        <img
@@ -43,7 +35,7 @@
 
 <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=php,java,tex,css,objective-c,c,c%23,php&langs_count=3&layout=donut"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=tex,html,css,php,objective-c,c,java,python,r&langs_count=3&layout=donut"
         alt="Github Stats"
       />
 
