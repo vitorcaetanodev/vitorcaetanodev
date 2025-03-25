@@ -19,14 +19,14 @@
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,php,objective-c,c,java,python,r"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,php,objective-c,c,java,python,r,langs_count=3"
         alt="Github Stats"
       />
     </td><td>
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,tex,shell,dockerfile,batchfile,c,c%23,java,python,r"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,tex,shell,dockerfile,batchfile,c,c%23,java,python,r,langs_count=3"
         alt="Github Stats"
       />
     </td>
@@ -34,7 +34,7 @@
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,objective-c,c,c%23,php,jupyter%20Notebook"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,objective-c,c,c%23,php,jupyter%20Notebook,langs_count=3"
         alt="Github Stats"
       />
     </td>
