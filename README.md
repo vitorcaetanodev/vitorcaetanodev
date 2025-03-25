@@ -19,7 +19,7 @@
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,php,objective-c,c,java,python,r&langs_count=3&layout=donut"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,tex,css,php,objective-c,c,java,python,r&langs_count=3&layout=donut"
         alt="Github Stats"
       />
     </td><td>
