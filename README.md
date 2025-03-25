@@ -11,7 +11,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=vitorcaetanodev&theme=cobalt&hide_border=false&hide_contributor_rank=true&hide_rank=true"
+        src="https://github-readme-stats.vercel.app/api?username=vitorcaetanodev&hide_border=false&hide_contributor_rank=true&hide_rank=true"
         alt="Github Stats"
       />
     </td>
@@ -19,14 +19,14 @@
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=tex,html,css,php,objective-c,c,java,python,r&langs_count=3&layout=donut"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=tex,html,css,php,objective-c,c,java,python,r&langs_count=3&layout=donut"
         alt="Github Stats"
       />
     </td><td>
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,tex,shell,dockerfile,batchfile,c,c%23,java,python,r&langs_count=3&layout=donut"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=javascript,tex,shell,dockerfile,batchfile,c,c%23,java,python,r&langs_count=3&layout=donut"
         alt="Github Stats"
       />
     </td>
@@ -34,7 +34,7 @@
       <br />
        <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=javascript,html,tex,css,objective-c,c,c%23,php,jupyter%20Notebook&langs_count=3&layout=donut"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=javascript,html,tex,css,objective-c,c,c%23,php,jupyter%20Notebook&langs_count=3&layout=donut"
         alt="Github Stats"
       />
     </td>
@@ -43,7 +43,7 @@
 
 <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&theme=cobalt&hide=php,java,tex,css,objective-c,c,c%23,php&langs_count=3&layout=donut"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcaetanodev&hide=php,java,tex,css,objective-c,c,c%23,php&langs_count=3&layout=donut"
         alt="Github Stats"
       />
 
